@@ -1,0 +1,9 @@
+
+name: ModernHouse
+version: ${version}
+main: com.example.modernhouse.ModernHouse
+api-version: '1.20'
+commands:
+  modernhouse:
+    description: Builds a simple modern house
+    usage: /modernhouse
